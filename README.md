@@ -1,2 +1,1 @@
-# Codesoft
-java development internship 
+# Codesoft 
