@@ -1,22 +1,19 @@
-# Codesoft 
-TASK 1
-NUMBER GAME
-1. Generate a random number within a specified range, such as 1 to 100.
-2. Prompt the user to enter their guess for the generated number.
-3. Compare the user's guess with the generated number and provide feedback on whether the guess
-is correct, too high, or too low.
-4. Repeat steps 2 and 3 until the user guesses the correct number.
-You can incorporate additional details as follows:
-5. Limit the number of attempts the user has to guess the number.
-6. Add the option for multiple rounds, allowing the user to play again.
-7. Display the user's score, which can be based on the number of attempts taken or rounds won.
-NUMBER GAME
-TASK 2
-STUDENT GRADE CALCULATOR
-Input: Take marks obtained (out of 100) in each subject.
-Calculate Total Marks: Sum up the marks obtained in all subjects.
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
-average percentage.
-Grade Calculation: Assign grades based on the average percentage achieved.
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user
-STUDENT GRADE CALCULATOR
+# Codesoft
+CodSoft Java Development Internship
+Welcome to the CodSoft Java Development Internship repository! This repository documents my progress and assignments during my internship journey. Here, I'll be working on a set of tasks to enhance my skills and knowledge in Java development.
+
+Tasks Overview
+Task 1: Number Guessing Game
+Generate random numbers, prompt user guesses, and provide feedback.
+Allow multiple rounds and calculate scores.
+Task 2: Student Grade Calculator
+Calculate total marks and average percentage.
+Assign grades and display results.
+Task 3: ATM Interface
+Create an ATM class with withdraw, deposit, and checkBalance methods.
+Implement input validation and connect with user's bank account.
+Task 4: Currency Converter
+Convert currencies using its exchange rates.
+Provide a user-friendly interface for currency conversion.
+Task 5: Student Management System
+Manage students with Student and StudentManagementSystem classes.
